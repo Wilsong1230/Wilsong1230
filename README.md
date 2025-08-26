@@ -17,5 +17,6 @@ I'm a Software Engineering undergrad at Florida Gulf Coast University with exper
 - **Strengths:** Algorithms, Problem-Solving, Communication, Team Collaboration  
 
 ## 📫 Connect
-- [LinkedIn](www.linkedin.com/in/wagomez)  
-- [Email](wagomez1230@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/wagomez)
+- [Email](mailto:wagomez1230@gmail.com)
+
